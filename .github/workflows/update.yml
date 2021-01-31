@@ -16,6 +16,7 @@ jobs:
         curl https://raw.githubusercontent.com/BeautyYuYanli/beautyyuyanli.github.io/source/source/aboutme/index.md | tail -n +4 > readme.md
         git config user.name github-actions
         git config user.email github-actions@github.com
+        git pull origin master
         git add .
         git diff-index --quiet HEAD || git commit -m "updated at `date`"
         git push
