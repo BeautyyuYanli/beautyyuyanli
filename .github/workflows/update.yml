@@ -17,7 +17,7 @@ jobs:
         git config user.email github-actions@github.com
         git pull origin master
         curl https://raw.githubusercontent.com/BeautyYuYanli/beautyyuyanli.github.io/source/source/aboutme/index.md | tail -n +4 > readme.md
-		sed -i '$ d' readme.md 
+        sed -i '$ d' readme.md 
         git add .
         git diff-index --quiet HEAD || git commit -m "updated at `date`"
         git push
