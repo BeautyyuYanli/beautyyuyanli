@@ -22,5 +22,4 @@
 > 越是疲倦 越不能歇
 
 ![](https://github-readme-stats.vercel.app/api?username=beautyyuyanli&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beautyyuyanli&layout=compact&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beautyyuyanli&layout=compact&theme=dark&exclude_repo=beautyyuyanli.github.io)
