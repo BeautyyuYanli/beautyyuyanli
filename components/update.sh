@@ -8,9 +8,3 @@ proxychains python3 main.py
 cp $CWD/music/lib -r $CWD/dance
 cd $CWD/dance
 proxychains python3 main.py
-
-
-cd $CWD
-git add .
-git commit -m "update components"
-git push -f origin master
