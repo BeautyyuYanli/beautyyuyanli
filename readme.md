@@ -23,26 +23,26 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=beautyyuyanli&show_icons=true&theme=dark)
 
-## Favorite music
+## Favorite Music
 
 |Title|Date|
 |---|---|
-|['米津玄師 MV「Flamingo」'](https://www.youtube.com/watch?v=Uh6dkL1M9DM)|2021-11-22|
-|['【膜蛤】莫比乌斯之江（2018蛤诞祭单品）「人力VOCALOID」'](https://www.youtube.com/watch?v=EGilsGQpO_g)|2021-11-22|
-|['【东方同人重型】全新单曲?「Bad Joker!!」试听PV【DualInsomiNa二重不眠症】'](https://www.bilibili.com/video/av972252134)|2021-11-22|
-|['鸟翼下的流浪者丨摇滚凯尔特民族风原创音乐'](https://www.bilibili.com/video/av806620660)|2021-11-22|
-|['【诗岸】KATARINA'](https://www.bilibili.com/video/av891294034)|2021-11-22|
+|['カタオモイ / THE FIRST TAKE'](https://www.youtube.com/watch?v=Opp9nqiN5m0)|2022-06-22|
+|['Fantasy Note'](https://www.youtube.com/watch?v=x2DXE7Hj4mY)|2022-06-22|
+|['MANAKO 『ミラー』 Music Video'](https://www.youtube.com/watch?v=JyN1ZeY3ngk)|2022-06-22|
+|['【东方同音】遠野幻想物語，但是金属核 /「启明」PV付【二重不眠症】'](https://www.bilibili.com/video/av811122209)|2022-06-22|
+|['【菊花花】「影照千年华」雷电影·八重神子【原神同人曲/手书动画】'](https://www.bilibili.com/video/av683262071)|2022-06-22|
 
 [more...](https://github.com/BeautyYuYanli/beautyyuyanli/blob/master/components/music/output.md)
 
-## Favorite dance
+## Favorite Dance
 
 |Title|Date|
 |---|---|
-|['【足太ぺんた】[A]ddiction 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=wv0i5_1z_LE)|2021-11-22|
-|['【足太ぺんた】Gimme×Gimme 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=rQh-iD9-4Uw)|2021-11-22|
-|['[Deleted video]'](https://www.youtube.com/watch?v=9aHeejh6ylI)|2021-11-22|
-|['【足太ぺんた】ドーナツホール　踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=oa_SNcYR4wA)|2021-11-22|
-|['【足太ぺんた】モザイクロール (Reloaded) 踊ってみた【９年ぶり】'](https://www.youtube.com/watch?v=-b9wpuyq2jY)|2021-11-22|
+|['フォニイ  踊ってみた / まなこ'](https://www.youtube.com/watch?v=HX2VSG55m5w)|2022-06-22|
+|['【まなこ】ダーリンダンス 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=-1fIEB8leG0)|2022-06-22|
+|['【足太ぺんた】スクランブル交際　踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=jgzdZBzAMsU)|2022-06-22|
+|['【まなこ】阿呆なるものは 踊ってみた /オリジナル振付'](https://www.youtube.com/watch?v=oqDa7DjaHJY)|2022-06-22|
+|['【まなこ】アイスクリーム 踊ってみた /オリジナル振付'](https://www.youtube.com/watch?v=W5J_tz01agU)|2022-06-22|
 
 [more...](https://github.com/BeautyYuYanli/beautyyuyanli/blob/master/components/dance/output.md)

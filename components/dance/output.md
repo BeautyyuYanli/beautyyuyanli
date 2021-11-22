@@ -3,6 +3,14 @@
 
 |Title|Date|
 |---|---|
+|['フォニイ  踊ってみた / まなこ'](https://www.youtube.com/watch?v=HX2VSG55m5w)|2022-06-22|
+|['【まなこ】ダーリンダンス 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=-1fIEB8leG0)|2022-06-22|
+|['【足太ぺんた】スクランブル交際　踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=jgzdZBzAMsU)|2022-06-22|
+|['【まなこ】阿呆なるものは 踊ってみた /オリジナル振付'](https://www.youtube.com/watch?v=oqDa7DjaHJY)|2022-06-22|
+|['【まなこ】アイスクリーム 踊ってみた /オリジナル振付'](https://www.youtube.com/watch?v=W5J_tz01agU)|2022-06-22|
+|['【足太ぺんた】シャンティ　踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=IC3kO4mtPik)|2022-06-22|
+|['【まなこ】うそつき 踊ってみた'](https://www.youtube.com/watch?v=gUa8_u1-B14)|2022-06-22|
+|['【まなこ×やっこ】 バイバイ宣告 踊ってみた / オリジナル振付'](https://www.youtube.com/watch?v=Xxbe7r4shBI)|2022-06-22|
 |['【足太ぺんた】[A]ddiction 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=wv0i5_1z_LE)|2021-11-22|
 |['【足太ぺんた】Gimme×Gimme 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=rQh-iD9-4Uw)|2021-11-22|
 |['[Deleted video]'](https://www.youtube.com/watch?v=9aHeejh6ylI)|2021-11-22|

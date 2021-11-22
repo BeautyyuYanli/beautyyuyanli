@@ -3,6 +3,27 @@
 
 |Title|Date|
 |---|---|
+|['カタオモイ / THE FIRST TAKE'](https://www.youtube.com/watch?v=Opp9nqiN5m0)|2022-06-22|
+|['Fantasy Note'](https://www.youtube.com/watch?v=x2DXE7Hj4mY)|2022-06-22|
+|['MANAKO 『ミラー』 Music Video'](https://www.youtube.com/watch?v=JyN1ZeY3ngk)|2022-06-22|
+|['【东方同音】遠野幻想物語，但是金属核 /「启明」PV付【二重不眠症】'](https://www.bilibili.com/video/av811122209)|2022-06-22|
+|['【菊花花】「影照千年华」雷电影·八重神子【原神同人曲/手书动画】'](https://www.bilibili.com/video/av683262071)|2022-06-22|
+|['【乐正绫原创曲/PV付】KISS ME KISS ME（Day Ver.）【情人节巨献】'](https://www.bilibili.com/video/av894066707)|2022-06-22|
+|['【洛天依原创曲】恋爱日记【潜移默化】'](https://www.bilibili.com/video/av211395238)|2022-06-22|
+|['【言和】弈【VOCALOID COVER】'](https://www.bilibili.com/video/av211233625)|2022-06-22|
+|['【爱丽丝星尘v.s.红皇后苍穹】Final⇆Endless【五维介质丨VOCALOID×SynthV】'](https://www.bilibili.com/video/av455013728)|2022-06-22|
+|['【苍穹2020诞生日】少年诗『吉光片羽Queendom』专辑收录曲'](https://www.bilibili.com/video/av498209006)|2022-06-22|
+|['【心华星尘原创】Time Chaser【心华七周年】'](https://www.bilibili.com/video/av295955690)|2022-06-22|
+|['【五维介质游戏】苍穹角色歌《苍穹》'](https://www.bilibili.com/video/av338694950)|2022-06-22|
+|['《崩坏3》幽兰黛尔&丽塔手书「新春游园」'](https://www.bilibili.com/video/av850985990)|2022-06-22|
+|['繁华唱遍【2019拜年祭单品】'](https://www.bilibili.com/video/av36570707)|2022-06-22|
+|['【Vflower feat. Fukase】ヴァンパイア【VOCALOID COVER】'](https://www.bilibili.com/video/av635646889)|2022-06-22|
+|['（全景pv）小野道ono-日出日落 feat.Hanser (official MV)'](https://www.bilibili.com/video/av719883189)|2022-06-22|
+|['【新月冰冰】绝世丑角【妄想症：破茧】DLC曲目【DELA&雨狸】'](https://www.bilibili.com/video/av550041649)|2022-06-22|
+|['【洛天依原创】Seattle物语【Ddickky】'](https://www.bilibili.com/video/av877734)|2022-06-22|
+|['《崩坏3》EP - 「没入乐园」'](https://www.bilibili.com/video/av634806345)|2022-06-22|
+|['【乐正绫V5原创】藏蓝【VC-GENS罗盘社】【原创PV付】'](https://www.bilibili.com/video/av506648722)|2022-06-22|
+|['古典志异原创曲｜《至宝》｜乐正绫x甘泽谣系列'](https://www.bilibili.com/video/av849508418)|2022-06-22|
 |['米津玄師 MV「Flamingo」'](https://www.youtube.com/watch?v=Uh6dkL1M9DM)|2021-11-22|
 |['【膜蛤】莫比乌斯之江（2018蛤诞祭单品）「人力VOCALOID」'](https://www.youtube.com/watch?v=EGilsGQpO_g)|2021-11-22|
 |['【东方同人重型】全新单曲?「Bad Joker!!」试听PV【DualInsomiNa二重不眠症】'](https://www.bilibili.com/video/av972252134)|2021-11-22|
