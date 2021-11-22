@@ -1,9 +1,11 @@
 import json, datetime
-def main():
+def main(header):
     al = '''
+# {}
+
 |条目|添加日期|
 |---|---|
-'''
+'''.format(header)
     with open('output.json') as f:
         output = json.loads(f.read())
     outputStr = []
