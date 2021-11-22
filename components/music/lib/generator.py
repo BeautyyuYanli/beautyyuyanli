@@ -1,7 +1,7 @@
 import json, datetime
 def main():
     al = '''
-|歌曲|添加日期|
+|条目|添加日期|
 |---|---|
 '''
     with open('output.json') as f:

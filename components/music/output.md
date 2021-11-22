@@ -1,6 +1,8 @@
 
-|歌曲|添加日期|
+|条目|添加日期|
 |---|---|
+|['米津玄師 MV「Flamingo」'](https://www.youtube.com/watch?v=Uh6dkL1M9DM)|2021-11-22|
+|['【膜蛤】莫比乌斯之江（2018蛤诞祭单品）「人力VOCALOID」'](https://www.youtube.com/watch?v=EGilsGQpO_g)|2021-11-22|
 |['【东方同人重型】全新单曲?「Bad Joker!!」试听PV【DualInsomiNa二重不眠症】'](https://www.bilibili.com/video/av972252134)|2021-11-22|
 |['鸟翼下的流浪者丨摇滚凯尔特民族风原创音乐'](https://www.bilibili.com/video/av806620660)|2021-11-22|
 |['【诗岸】KATARINA'](https://www.bilibili.com/video/av891294034)|2021-11-22|
