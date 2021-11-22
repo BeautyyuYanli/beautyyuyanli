@@ -3,7 +3,7 @@ def main(header):
     al = '''
 # {}
 
-|条目|添加日期|
+|Title|Date|
 |---|---|
 '''.format(header)
     with open('output.json') as f:

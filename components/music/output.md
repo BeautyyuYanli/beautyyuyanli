@@ -1,7 +1,7 @@
 
 # 收藏歌曲
 
-|条目|添加日期|
+|Title|Date|
 |---|---|
 |['米津玄師 MV「Flamingo」'](https://www.youtube.com/watch?v=Uh6dkL1M9DM)|2021-11-22|
 |['【膜蛤】莫比乌斯之江（2018蛤诞祭单品）「人力VOCALOID」'](https://www.youtube.com/watch?v=EGilsGQpO_g)|2021-11-22|

@@ -1,7 +1,7 @@
 
 # 收藏舞蹈
 
-|条目|添加日期|
+|Title|Date|
 |---|---|
 |['【足太ぺんた】[A]ddiction 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=wv0i5_1z_LE)|2021-11-22|
 |['【足太ぺんた】Gimme×Gimme 踊ってみた【オリジナル振付】'](https://www.youtube.com/watch?v=rQh-iD9-4Uw)|2021-11-22|
