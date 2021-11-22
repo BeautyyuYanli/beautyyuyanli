@@ -1,8 +1,15 @@
 BASEDIR=$(dirname "$0")
-cd $BASEDIR/music
-python3 main.py
-python3 generator.py
 cd $BASEDIR
+CWD=$PWD
+
+cd $CWD/music
+proxychains python3 main.py
+
+cd $CWD/dance
+proxychains python3 main.py
+
+
+cd $CWD
 git add .
 git commit -m "update components"
 git push -f origin master
