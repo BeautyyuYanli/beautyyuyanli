@@ -1,25 +1,14 @@
 ---
+
 # Hello👋Good Night!
 
 *This is Beautyyu, or 言醴(Yanli)*
 
-[![](https://img.shields.io/badge/-Blog-ff4088?logo=Hexo&logoColor=white&style=flat-square)](http://beautyyu.one) [![](https://img.shields.io/badge/-RSS-ffa500?logo=RSS&logoColor=fff&style=flat-square)](http://beautyyu.one/atom.xml) [![](https://img.shields.io/badge/-Email-c2392a?logo=Gmail&logoColor=white&style=flat-square)](mailto://beautyyuyanli@gmail.com) [![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/beautyyuyanli) [![](https://img.shields.io/badge/-Telegram-2ca5e0?labelColor=fafafa&logo=Telegram&logoWidth=13&style=flat-square)](https://t.me/water_water_water_2077)  [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/beautyyuyanli)
+| [English Blog](https://blog.beautyyu.one) | [中文博客](https://blog-zh.beautyyu.one) | [已归档博客](https://blogarchived.beautyyu.one) |
 
-🎓 Study in Dalian University of Technology, majoring in Computer Science.
+[![](https://camo.githubusercontent.com/db38fa14b55bc8700f7e7e120a163ddb567db899cdb9b31aa8cd69f4b53855e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d6332333932613f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)](mailto://beautyyuyanli@gmail.com) [![](https://camo.githubusercontent.com/7e7d591bcb23223e983774b28272fb9436d8229eac2f58f15c4e75384849c48c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f6c6f676f3d476974487562267374796c653d666c61742d737175617265)](https://github.com/beautyyuyanli) [![](https://camo.githubusercontent.com/9e318c12efb77a183c3f10ea470bdb849a1ef967d8266a04e4d6eb47fa0d2fde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3263613565303f6c6162656c436f6c6f723d666166616661266c6f676f3d54656c656772616d266c6f676f57696474683d3133267374796c653d666c61742d737175617265)](https://t.me/beautyyu) [![](https://camo.githubusercontent.com/421e5c3382eca3899066109b9dd9d2f5cd5fe381dd6fa1f69ead95b41b7652c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3164613166323f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)](https://twitter.com/beautyyuyanli)
 
-🌊 Talk about ACGN (and 🎵Music🎵), art (esp. Building Design🏛️/Photography📷), science (esp. Mathematics/Biology/Philosophy/History📜), politics, and anything intersting.
-
-🔥 Poor experiences in algorithm competitions (OI and *CPC).
-
-✨ Underdeveloped web/spider developer. Mostly use C++/Python/JavaScript (HTML, CSS), with some experiences in Docker/Node.js/Selenium, etc.
-
-🌏 Chinese(native)/English(first forign)
-
-⏳ Want to learn Japanese, Haskell, Computer Vision, etc.
-
-> 越是孤单 越是向前
->
-> 越是疲倦 越不能歇
+A learner with a wide range of interests and curiosity. [More about me](https://blog.beautyyu.one/profile)
 
 ![](https://github-readme-stats.vercel.app/api?username=beautyyuyanli&show_icons=true&theme=dark)
 
