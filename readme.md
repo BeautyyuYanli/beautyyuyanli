@@ -16,11 +16,11 @@ A learner with a wide range of interests and curiosity. [More about me](https://
 
 |Title|Date|
 |---|---|
+|['《崩壞3rd》★全新印象曲《TruE》MV發佈★'](https://www.youtube.com/watch?v=FxTxbNC0yGk)|2022-08-14|
+|['「TruE」——《崩坏3》印象曲（演唱者：黄龄）'](https://www.bilibili.com/video/av514281713)|2022-08-14|
 |['カタオモイ / THE FIRST TAKE'](https://www.youtube.com/watch?v=Opp9nqiN5m0)|2022-06-22|
 |['Fantasy Note'](https://www.youtube.com/watch?v=x2DXE7Hj4mY)|2022-06-22|
 |['MANAKO 『ミラー』 Music Video'](https://www.youtube.com/watch?v=JyN1ZeY3ngk)|2022-06-22|
-|['【东方同音】遠野幻想物語，但是金属核 /「启明」PV付【二重不眠症】'](https://www.bilibili.com/video/av811122209)|2022-06-22|
-|['【菊花花】「影照千年华」雷电影·八重神子【原神同人曲/手书动画】'](https://www.bilibili.com/video/av683262071)|2022-06-22|
 
 [more...](https://github.com/BeautyYuYanli/beautyyuyanli/blob/master/components/music/output.md)
 

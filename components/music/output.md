@@ -3,6 +3,8 @@
 
 |Title|Date|
 |---|---|
+|['《崩壞3rd》★全新印象曲《TruE》MV發佈★'](https://www.youtube.com/watch?v=FxTxbNC0yGk)|2022-08-14|
+|['「TruE」——《崩坏3》印象曲（演唱者：黄龄）'](https://www.bilibili.com/video/av514281713)|2022-08-14|
 |['カタオモイ / THE FIRST TAKE'](https://www.youtube.com/watch?v=Opp9nqiN5m0)|2022-06-22|
 |['Fantasy Note'](https://www.youtube.com/watch?v=x2DXE7Hj4mY)|2022-06-22|
 |['MANAKO 『ミラー』 Music Video'](https://www.youtube.com/watch?v=JyN1ZeY3ngk)|2022-06-22|
