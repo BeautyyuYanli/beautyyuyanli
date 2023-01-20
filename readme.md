@@ -2,7 +2,7 @@
 
 # Hello👋Good Night!
 
-*This is Beautyyu, or 言醴(Yanli)*
+*This is 言醴(Yanli), or Beautyyu*
 
 | [English Blog](https://blog.beautyyu.one) | [中文博客](https://blog-zh.beautyyu.one) | [已归档博客](https://blogarchived.beautyyu.one) |
 
