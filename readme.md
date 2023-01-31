@@ -21,6 +21,7 @@ A learner with a wide range of interests and curiosity. [More about me](https://
 
 ## Playlists
 
-|Favorite Music|Dancers|
-|-----|-----|
-|[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLXQAecVlk3h8GyTHVeNAuWB_b2TEoLlPV)|[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLXQAecVlk3h_imMrwArKh_-4OexMDsHkb)|
+|Favorite Music|Dancers|Games|
+|-----|-----|-----|
+|[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLXQAecVlk3h8GyTHVeNAuWB_b2TEoLlPV)|[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLXQAecVlk3h_imMrwArKh_-4OexMDsHkb)|[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/beautyyu/)|
+|[![Bilibili](https://img.shields.io/static/v1?style=for-the-badge&message=List&color=00A1D6&logo=Bilibili&logoColor=FFFFFF&label=Bilibili)](http://www.bilibili.com/list/ml53706285)||
