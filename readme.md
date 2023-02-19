@@ -4,7 +4,7 @@
 
 *This is 言醴(Yanli), or Beautyyu*
 
-| [Blog](https://blog.beautyyu.one) | [(已归档)博客](https://blogarchived.beautyyu.one) |
+| [Blog](https://blog.beautyyu.one) | [~(已归档)博客~](https://blogarchived.beautyyu.one) |
 
 [![](https://camo.githubusercontent.com/db38fa14b55bc8700f7e7e120a163ddb567db899cdb9b31aa8cd69f4b53855e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d6332333932613f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)](mailto://beautyyuyanli@gmail.com)
 [![](https://camo.githubusercontent.com/7e7d591bcb23223e983774b28272fb9436d8229eac2f58f15c4e75384849c48c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f6c6f676f3d476974487562267374796c653d666c61742d737175617265)](https://github.com/beautyyuyanli)
